@@ -1,0 +1,21 @@
+{
+    "name": "jquery-lazyload",
+    "filename": "jquery.lazyload.js",
+    "version": "1.9.0",
+
+    "description": "延迟加载图片插件",
+    "homepage": "https://github.com/tuupola/jquery_lazyload/",
+    "keywords": [],
+    "maintainers": [
+       {
+           "name": "tuupola",
+           "web": "https://github.com/tuupola/jquery_lazyload/"
+       }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/tuupola/jquery_lazyload"
+        }
+    ]
+}
